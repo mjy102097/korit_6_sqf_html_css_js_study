@@ -215,7 +215,7 @@
     color: #929294;
     cursor: pointer;
 }
-
+ 
 .adult-group > input[type="radio"]:checked + label {
     border: 1px solid #09aa5c;
     color: #09aa5c;
